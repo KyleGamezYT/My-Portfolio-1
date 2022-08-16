@@ -31,11 +31,7 @@ module.exports = withPlugins(
   experimental: { images: { allowFutureImage: true } },
   async redirects() {
    return [
-    {
-source: "/discord/greenville-central",
-destination: "https://discord.gg/nFyr9XZ7Cr",
-permanent: true
-    },
+    
 {
   source: "/test/test-web-69",
   destination: "https://youtube.com/",

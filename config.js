@@ -32,8 +32,8 @@ export const header = {
        <a target="_blank">KyleTheDuck3#2022</a>
       </Link>
       <br />+ <span className="font-semibold">Link:</span>{" "}
-      <Link href="https://www.kyletheduck3.tk/discord/greenville-central">
-       <a target="_blank">https://kyletheduck.tk/discord/greenville-central</a>
+      <Link href="">
+       <a target="_blank"></a>
       </Link>
      </>
     ),
