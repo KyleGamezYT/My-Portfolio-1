@@ -31,6 +31,7 @@ module.exports = withPlugins(
   experimental: { images: { allowFutureImage: true } },
   async redirects() {
    return [
+
     {
 source: "/discord/greenville-central",
 destination: "https://discord.gg/nFyr9XZ7Cr",
@@ -39,6 +40,14 @@ permanent: true
 {
   source: "/vps/provider",
   destination: "https://www.linode.com/lp/youtube-viewers/?ifso=networkchuck&utm_source=influencer&utm_medium=video&utm_campaign=networkchuck",
+  permanent: true
+},
+
+    
+{
+  source: "/test/test-web-69",
+  destination: "https://youtube.com/",
+
   permanent: true
 },
     {
