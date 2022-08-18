@@ -36,7 +36,11 @@ source: "/discord/greenville-central",
 destination: "https://discord.gg/nFyr9XZ7Cr",
 permanent: true
     },
-
+{
+  source: "/vps/provider",
+  destination: "https://www.linode.com/lp/youtube-viewers/?ifso=networkchuck&utm_source=influencer&utm_medium=video&utm_campaign=networkchuck",
+  permanent: true
+},
     {
      source: "/discord",
      destination: "https://discord.gg/uxtSMtd2xZ",
