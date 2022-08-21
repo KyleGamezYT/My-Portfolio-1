@@ -1,7 +1,7 @@
 {
- "name": "Igor Kowalczyk - Portfolio",
- "short_name": "Igor Kowalczyk",
- "description": "I'm a full-stack developer based in Poland. I have a passion for building web applications and solving problems",
+ "name": "KyleTheDuck",
+ "short_name": "Kyle",
+ "description": "I'm a Discord Bot Developer who makes bots with a short fee.",
  "start_url": "/?source=pwa",
  "scope": "/",
  "display_override": ["window-control-overlay", "minimal-ui"],

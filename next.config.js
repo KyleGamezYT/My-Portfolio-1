@@ -33,8 +33,8 @@ module.exports = withPlugins(
    return [
 
     {
-source: "/discord/greenville-central",
-destination: "https://discord.gg/nFyr9XZ7Cr",
+source: "/discord/greenville-roleplay-seasons",
+destination: "https://discord.gg/FzhePXayCm ",
 permanent: true
     },
 {
@@ -76,7 +76,7 @@ permanent: true
      permanent: true,
     },
     {
-     source: "/discord-server",
+     source: "/discord/greenville-roleplay-seasons",
      destination: "/discord",
      permanent: true,
     },
