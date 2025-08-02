@@ -1,9 +1,9 @@
 import Link from "next/link";
 
 export const meta = {
- title: "KyleTheDuck3",
- author: "KyleTheDuck3",
- description: "I am a Discord Bot Developer And Moderator for some servers. If you want to get in touch Scroll to the bottom!",
+ title: "Kyle",
+ author: "kyle",
+ description: "HR In GVRO, Intrested in Cars, Tech, Coding etc.",
  url: "https://kyletheduck.tk/",
  theme_color: "#5485f2",
  type: "website",
@@ -14,9 +14,9 @@ export const feautures = {
 };
 
 export const header = {
- title: "KyleTheDuck",
- subtitle: "KyleTheDuck3",
- description: "I am a Discord Bot Developer And Moderator for some servers.",
+ title: "Kyle",
+ subtitle: "Kyle",
+ description: "HR In GVRO, Intrested in Cars, Tech, Coding etc.",
  code: {
   default: {
    user: "guest",
@@ -24,12 +24,12 @@ export const header = {
   lines: [
    {
     command: "contact --discord",
-    user: "KyleTheDuck3#2022",
+    user: "mxtorkyle",
     response: (
      <>
       + <span className="font-semibold">User:</span>{" "}
       <Link href="https://discord.com/users/544164729354977282">
-       <a target="_blank">KyleTheDuck3#2022</a>
+       <a target="_blank">mxtorkyle</a>
       </Link>
       <br />+ <span className="font-semibold">Link:</span>{" "}
       <Link href="">
